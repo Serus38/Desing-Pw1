@@ -46,3 +46,26 @@ nav a:hover
     border-bottom: 2px;
 }
 
+#rest1, #rest2, #rest3, #rest4
+{
+    width: 300px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 50px;
+    
+    
+}
+
+div
+{
+  display: inline-flexbox;
+  justify-content: center;
+ 
+}
+
+img
+{
+    display: block;
+    position: bottom;
+    
+}
